@@ -1,0 +1,13 @@
+.vscode/*
+.idea/*
+node_modules
+.env
+*.log
+assets/*
+package-lock.json
+public/*
+package-lock.json
+# exception to the rule
+!logs/.gitkeep
+!assets/.gitkeep
+!public/.gitkeep
